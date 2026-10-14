@@ -1,0 +1,84 @@
+D:\бд\32\pr32\pr32\bin\Debug\pr32.exe.config
+D:\бд\32\pr32\pr32\bin\Debug\pr32.exe
+D:\бд\32\pr32\pr32\bin\Debug\pr32.pdb
+D:\бд\32\pr32\pr32\bin\Debug\MySql.Data.dll
+D:\бд\32\pr32\pr32\bin\Debug\MySql.Data.xml
+D:\бд\32\pr32\pr32\obj\Debug\pr32.csproj.AssemblyReference.cache
+D:\бд\32\pr32\pr32\obj\Debug\pr32.Form1.resources
+D:\бд\32\pr32\pr32\obj\Debug\pr32.Form2.resources
+D:\бд\32\pr32\pr32\obj\Debug\pr32.Form3.resources
+D:\бд\32\pr32\pr32\obj\Debug\pr32.Properties.Resources.resources
+D:\бд\32\pr32\pr32\obj\Debug\pr32.csproj.GenerateResource.cache
+D:\бд\32\pr32\pr32\obj\Debug\pr32.csproj.CoreCompileInputs.cache
+D:\бд\32\pr32\pr32\obj\Debug\pr32.csproj.Up2Date
+D:\бд\32\pr32\pr32\obj\Debug\pr32.exe
+D:\бд\32\pr32\pr32\obj\Debug\pr32.pdb
+D:\бд\32\pr32\pr32\obj\Debug\pr32.exe.config
+D:\kolosov\Новая папка\pr\pr32\pr32\bin\Debug\App.config
+D:\kolosov\Новая папка\pr\pr32\pr32\bin\Debug\pr32.exe.config
+D:\kolosov\Новая папка\pr\pr32\pr32\bin\Debug\pr32.exe
+D:\kolosov\Новая папка\pr\pr32\pr32\bin\Debug\pr32.pdb
+D:\kolosov\Новая папка\pr\pr32\pr32\bin\Debug\MySql.Data.dll
+D:\kolosov\Новая папка\pr\pr32\pr32\bin\Debug\MySql.Data.xml
+D:\kolosov\Новая папка\pr\pr32\pr32\obj\Debug\pr32.csproj.AssemblyReference.cache
+D:\kolosov\Новая папка\pr\pr32\pr32\obj\Debug\pr32.Form1.resources
+D:\kolosov\Новая папка\pr\pr32\pr32\obj\Debug\pr32.Form2.resources
+D:\kolosov\Новая папка\pr\pr32\pr32\obj\Debug\pr32.Form3.resources
+D:\kolosov\Новая папка\pr\pr32\pr32\obj\Debug\pr32.Properties.Resources.resources
+D:\kolosov\Новая папка\pr\pr32\pr32\obj\Debug\pr32.csproj.GenerateResource.cache
+D:\kolosov\Новая папка\pr\pr32\pr32\obj\Debug\pr32.csproj.CoreCompileInputs.cache
+D:\kolosov\Новая папка\pr\pr32\pr32\obj\Debug\pr32.csproj.CopyComplete
+D:\kolosov\Новая папка\pr\pr32\pr32\obj\Debug\pr32.exe
+D:\kolosov\Новая папка\pr\pr32\pr32\obj\Debug\pr32.pdb
+D:\бд\32\pr\pr\pr32\pr32\obj\Debug\pr32.csproj.AssemblyReference.cache
+D:\бд\32\pr\pr\pr32\pr32\obj\Debug\pr32.exe.config
+D:\бд\32\pr\pr\pr32\pr32\obj\Debug\pr32.exe
+D:\бд\32\pr\pr\pr32\pr32\obj\Debug\pr32.pdb
+D:\бд\32\pr\pr\pr32\pr32\bin\Debug\App.config
+D:\бд\32\pr\pr\pr32\pr32\bin\Debug\pr32.exe.config
+D:\бд\32\pr\pr\pr32\pr32\bin\Debug\pr32.exe
+D:\бд\32\pr\pr\pr32\pr32\bin\Debug\pr32.pdb
+D:\бд\32\pr\pr\pr32\pr32\bin\Debug\MySql.Data.dll
+D:\бд\32\pr\pr\pr32\pr32\bin\Debug\MySql.Data.xml
+D:\бд\32\pr\pr\pr32\pr32\obj\Debug\pr32.Form1.resources
+D:\бд\32\pr\pr\pr32\pr32\obj\Debug\pr32.Form2.resources
+D:\бд\32\pr\pr\pr32\pr32\obj\Debug\pr32.Form3.resources
+D:\бд\32\pr\pr\pr32\pr32\obj\Debug\pr32.Form4.resources
+D:\бд\32\pr\pr\pr32\pr32\obj\Debug\pr32.Properties.Resources.resources
+D:\бд\32\pr\pr\pr32\pr32\obj\Debug\pr32.csproj.GenerateResource.cache
+D:\бд\32\pr\pr\pr32\pr32\obj\Debug\pr32.csproj.CoreCompileInputs.cache
+D:\бд\32\pr\pr\pr32\pr32\obj\Debug\pr32.csproj.Up2Date
+D:\kolosov\33\pr\pr\pr32\pr32\bin\Debug\App.config
+D:\kolosov\33\pr\pr\pr32\pr32\bin\Debug\pr32.exe.config
+D:\kolosov\33\pr\pr\pr32\pr32\bin\Debug\pr32.exe
+D:\kolosov\33\pr\pr\pr32\pr32\bin\Debug\pr32.pdb
+D:\kolosov\33\pr\pr\pr32\pr32\bin\Debug\MySql.Data.dll
+D:\kolosov\33\pr\pr\pr32\pr32\bin\Debug\MySql.Data.xml
+D:\kolosov\33\pr\pr\pr32\pr32\obj\Debug\pr32.csproj.AssemblyReference.cache
+D:\kolosov\33\pr\pr\pr32\pr32\obj\Debug\pr32.Form1.resources
+D:\kolosov\33\pr\pr\pr32\pr32\obj\Debug\pr32.Form2.resources
+D:\kolosov\33\pr\pr\pr32\pr32\obj\Debug\pr32.Form3.resources
+D:\kolosov\33\pr\pr\pr32\pr32\obj\Debug\pr32.Form4.resources
+D:\kolosov\33\pr\pr\pr32\pr32\obj\Debug\pr32.Properties.Resources.resources
+D:\kolosov\33\pr\pr\pr32\pr32\obj\Debug\pr32.csproj.GenerateResource.cache
+D:\kolosov\33\pr\pr\pr32\pr32\obj\Debug\pr32.csproj.CoreCompileInputs.cache
+D:\kolosov\33\pr\pr\pr32\pr32\obj\Debug\pr32.csproj.CopyComplete
+D:\kolosov\33\pr\pr\pr32\pr32\obj\Debug\pr32.exe
+D:\kolosov\33\pr\pr\pr32\pr32\obj\Debug\pr32.pdb
+D:\kolosov\34\pr32\pr32\bin\Debug\App.config
+D:\kolosov\34\pr32\pr32\bin\Debug\pr32.exe.config
+D:\kolosov\34\pr32\pr32\bin\Debug\pr32.exe
+D:\kolosov\34\pr32\pr32\bin\Debug\pr32.pdb
+D:\kolosov\34\pr32\pr32\bin\Debug\MySql.Data.dll
+D:\kolosov\34\pr32\pr32\bin\Debug\MySql.Data.xml
+D:\kolosov\34\pr32\pr32\obj\Debug\pr32.csproj.AssemblyReference.cache
+D:\kolosov\34\pr32\pr32\obj\Debug\pr32.Form1.resources
+D:\kolosov\34\pr32\pr32\obj\Debug\pr32.Form2.resources
+D:\kolosov\34\pr32\pr32\obj\Debug\pr32.Form3.resources
+D:\kolosov\34\pr32\pr32\obj\Debug\pr32.Form4.resources
+D:\kolosov\34\pr32\pr32\obj\Debug\pr32.Properties.Resources.resources
+D:\kolosov\34\pr32\pr32\obj\Debug\pr32.csproj.GenerateResource.cache
+D:\kolosov\34\pr32\pr32\obj\Debug\pr32.csproj.CoreCompileInputs.cache
+D:\kolosov\34\pr32\pr32\obj\Debug\pr32.csproj.CopyComplete
+D:\kolosov\34\pr32\pr32\obj\Debug\pr32.exe
+D:\kolosov\34\pr32\pr32\obj\Debug\pr32.pdb
